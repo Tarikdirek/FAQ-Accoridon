@@ -21,7 +21,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [https://faq-accoridon.vercel.app/]()
+- Live Site URL: [FAQ accordion](https://faq-accoridon.vercel.app/)
 
 
 ### Built with
